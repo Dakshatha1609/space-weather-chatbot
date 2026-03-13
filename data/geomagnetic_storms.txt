@@ -1,0 +1,17 @@
+Geomagnetic storms are large disturbances in Earth's magnetosphere caused by interactions between solar wind and the Earth's magnetic field. These storms occur when charged particles from the Sun compress and distort the magnetosphere, which is the protective magnetic bubble surrounding our planet.
+
+The most common triggers of geomagnetic storms are coronal mass ejections and high-speed solar wind streams. Coronal mass ejections release enormous clouds of magnetized plasma from the Sun's outer atmosphere. When these clouds reach Earth, they can transfer energy into the magnetosphere and cause significant magnetic disturbances.
+
+As solar particles interact with the magnetosphere, electric currents increase in both the magnetosphere and ionosphere. These currents can induce electric fields on Earth's surface, which may affect technological systems. The strength of a geomagnetic storm depends on factors such as solar wind speed, particle density, and the orientation of the solar magnetic field.
+
+One of the most visible effects of geomagnetic storms is the appearance of auroras. Auroras occur when energetic particles collide with atoms in Earth's upper atmosphere, producing colorful displays of light. These phenomena are commonly observed near the polar regions and are known as the aurora borealis in the northern hemisphere and aurora australis in the southern hemisphere.
+
+Geomagnetic storms can also impact satellites in orbit. Increased atmospheric heating during storms can cause the Earth's upper atmosphere to expand slightly. This expansion increases atmospheric drag on low-Earth-orbit satellites and may alter their orbital trajectories.
+
+Communication and navigation systems can also experience disruptions during geomagnetic storms. Radio signals traveling through the ionosphere may scatter or weaken, affecting aviation communication and maritime navigation systems. Satellite navigation systems such as GPS may experience temporary reductions in accuracy.
+
+Electrical power systems are particularly sensitive to strong geomagnetic disturbances. Geomagnetically induced currents can flow through long power transmission lines and damage transformers. Power grid operators in many countries now monitor space weather alerts to reduce the risk of large-scale outages.
+
+Scientists track geomagnetic activity using various indices. One commonly used measure is the Kp index, which ranges from 0 to 9. Higher values indicate stronger geomagnetic disturbances. Monitoring these indices helps researchers understand storm intensity and forecast potential impacts.
+
+The study of geomagnetic storms is important for protecting modern technological infrastructure. As global dependence on satellite systems and electrical networks increases, accurate monitoring and prediction of geomagnetic activity becomes increasingly important.

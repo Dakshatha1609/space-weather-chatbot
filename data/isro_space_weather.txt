@@ -1,0 +1,15 @@
+The Indian Space Research Organisation (ISRO) plays an important role in studying space weather and understanding the Sun's influence on Earth's environment. Solar activity such as solar flares, coronal mass ejections, and solar wind disturbances can affect satellite systems, communication networks, and navigation services. Monitoring these events helps protect critical technological infrastructure.
+
+One of India's major missions dedicated to solar observation is the Aditya-L1 mission. This spacecraft is designed to study the Sun from a stable location known as the Lagrange Point L1. The L1 point lies approximately 1.5 million kilometers from Earth in the direction of the Sun and allows continuous observation of solar activity.
+
+Aditya-L1 carries several scientific instruments that monitor different aspects of the Sun. These instruments observe the solar corona, measure solar wind particles, and analyze magnetic field variations. By studying these properties, scientists can better understand how solar activity evolves and how it influences space weather conditions near Earth.
+
+Data from solar observation missions is important for predicting solar storms and geomagnetic disturbances. Early detection of solar eruptions allows scientists to estimate when charged particles may reach Earth's magnetosphere. This information can be used to warn satellite operators, aviation systems, and power grid managers about potential disruptions.
+
+ISRO collaborates with international organizations and space agencies to improve global space weather monitoring systems. Data sharing between countries helps create a more complete picture of solar activity and improves forecasting accuracy. Space weather prediction is an international effort because solar disturbances can affect technological systems worldwide.
+
+Monitoring space weather is also important for the safety of astronauts and spacecraft electronics. High-energy particles from solar storms can pose radiation hazards to astronauts in space and may damage sensitive onboard instruments. Understanding these conditions helps space agencies design safer missions.
+
+In addition to research missions, ISRO supports the development of ground-based observatories and monitoring systems. These facilities track variations in Earth's magnetic field and analyze changes in the ionosphere caused by solar activity. Such measurements provide valuable information about how space weather affects Earth's near-space environment.
+
+As India expands its space exploration capabilities and satellite infrastructure, studying space weather becomes increasingly important. Research conducted by ISRO contributes to global efforts to understand solar activity and protect technological systems that modern societies rely upon every day.
