@@ -61,6 +61,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 Set environment variables for API keys:
+
 GROQ_API_KEY=your_key
 SERP_API_KEY=your_key
 
