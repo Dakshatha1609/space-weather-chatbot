@@ -13,8 +13,9 @@ The chatbot retrieves relevant information from documents stored in the project 
 - Display of retrieved document sources used to generate answers
 - Streamlit interface with response mode selection and example questions for quick testing.
 
-## Project Structure
+### Project Structure
 
+```
 config/
    config.py
 
@@ -35,6 +36,7 @@ data/
 app.py
 requirements.txt
 README.md
+```
 
 ## Data Sources
 The knowledge base consists of curated documents related to:
