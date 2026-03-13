@@ -11,13 +11,27 @@ The chatbot retrieves relevant information from documents stored in the project 
 - Live web search fallback when information is not available in the knowledge base
 - Two response modes: concise and detailed
 - Display of retrieved document sources used to generate answers
-- Example questions for quick testing
+- Streamlit interface with response mode selection and example questions for quick testing.
 
 ## Project Structure
+
 config/
+   config.py
+
 models/
+   llm.py
+   embeddings.py
+
 utils/
+   rag_utils.py
+   web_search.py
+
 data/
+   space_weather.txt
+   solar_flares.txt
+   geomagnetic_storms.txt
+   isro_space_weather.txt
+
 app.py
 requirements.txt
 README.md
