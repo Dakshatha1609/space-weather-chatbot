@@ -78,7 +78,7 @@ streamlit run app.py
 - How do geomagnetic storms affect satellites?
 
 ## Deployment
-The application can be deployed using Streamlit Cloud.
+Link: https://space-weather-chatbot-uvcx6w3qhulccffla7md7m.streamlit.app/
 
 ## Author
 Developed as part of an AI engineering case study assignment.
