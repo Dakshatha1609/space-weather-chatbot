@@ -63,12 +63,15 @@ pip install -r requirements.txt
 Set environment variables for API keys:
 
 GROQ_API_KEY=your_key
+
 SERP_API_KEY=your_key
 
 Run the chatbot:
+
 streamlit run app.py
 
 ## Example Questions
+
 - What is space weather?
 - What is a solar flare?
 - What is the Kp index?
